@@ -2,15 +2,15 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  overflow-x: hidden;
 }
 
-html {
+html, body {
+  overflow-x: hidden;
   scroll-behavior: smooth;
 }
 
 body {
-  margin: 1rem 2rem;
+  margin: 0; 
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
 }
 
@@ -26,7 +26,8 @@ body {
 
 @media screen and (max-width: 450px) {
   body {
-    margin: 0rem 0rem;
-    width: 100vw;
+    margin: 0;
+    width: 100%;
+    max-width: 100%;
   }
 }
