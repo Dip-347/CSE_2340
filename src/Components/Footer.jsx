@@ -12,8 +12,8 @@ function Footer() {
     <footer className={Classes.footerContainer}>
       <div className={Classes.footer}>
         <div className={Classes.socialLink}>
-          <p>+8801305282768</p>
-          <p>samimtravels@gmail.com</p>
+          <p>+8801877456880</p>
+          <p>travelloopBD@gmail.com</p>
           <a href="https://web.facebook.com/rahi680/">
             <img src={facebook} alt="" />
           </a>
@@ -29,16 +29,15 @@ function Footer() {
           <a href="#hero">
             <img src={footerLogo} alt="" />
             <p>
-              Samim <span>Travels</span>
+              Travel <span>Loop</span>
             </p>
           </a>
         </div>
 
         <div className={Classes.footerInfo}>
-          <h3>Explore the world from your inbox</h3>
+          <h3>Let us be your guide — discover the world.</h3>
           <p>
-            let us inspire your next gateway with new destinations and special
-            deals
+            Unlock stories, sights, and secrets from every corner of the globe — with us as your guide.
           </p>
 
           <div>

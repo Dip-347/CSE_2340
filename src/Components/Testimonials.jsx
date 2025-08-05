@@ -18,15 +18,13 @@ function Testimonials() {
         <div className={Classes.testimonialBox}>
           <FontAwesomeIcon icon={faQuoteLeft} className={Classes.Icon} />
           <p>
-            Samim travel has such a user-friendly website. Easy to navigate,
-            search and fiddle with dates instead of having to call up. Once
-            decided, the booking process was swift and easy, thank you.
+            Travel Loop offers an incredibly user-friendly website — easy to navigate, search for destinations, and adjust travel dates without needing to call. Once I made my choice, the booking process was quick and hassle-free. Thank you.
           </p>
 
           <div className={Classes.info}>
             <img src={avatar} alt="image" />
             <div>
-              <h3>Rahi Ahmed</h3>
+              <h3>Dip Chy</h3>
               <span>CEO • webtechbyrahi channel</span>
             </div>
           </div>
@@ -36,9 +34,7 @@ function Testimonials() {
           <FontAwesomeIcon icon={faQuoteLeft} className={Classes.Icon} />
 
           <p>
-            Great communication. This was a rushed booking and she was very
-            helpful/prompt with calls/replies to ensure we could have preferred
-            dates.
+            Great support throughout. Even with a tight timeline, quick and helpful replies made sure the preferred dates were confirmed .
           </p>
 
           <div className={Classes.info}>
@@ -53,9 +49,7 @@ function Testimonials() {
         <div className={Classes.testimonialBox}>
           <FontAwesomeIcon icon={faQuoteLeft} className={Classes.Icon} />
           <p>
-            I must say the service we received from this company was amazing and
-            would recommend them to anyone to trust and use them the rewards you
-            get with your holidays are just fantastic.
+            I have to say, the service from this company was outstanding. I would confidently recommend them to anyone looking for a trustworthy experience. The rewards you receive with your holidays are truly fantastic.
           </p>
 
           <div className={Classes.info}>

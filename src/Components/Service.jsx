@@ -17,9 +17,9 @@ function Service() {
     },
     {
       icon: service2,
-      title: "Covid Safe",
+      title: "Safty First",
       subTitle:
-        "We have all the curated hotels that have all the precaution for a covid safe environment.",
+        "Your safety is our top priority.We Committed to keeping you safe, wherever you go",
     },
     {
       icon: service3,

@@ -13,7 +13,7 @@ function NavBar() {
       <nav className={Classes.Navbar}>
         <div className={Classes.brand}>
           <h1 className={Classes.NavLogo}>
-            Samim <span>Travels</span>
+            Travel <span>Loop</span>
           </h1>
 
           <div className={Classes.hamburger}>
