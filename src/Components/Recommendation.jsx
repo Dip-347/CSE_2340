@@ -2,12 +2,12 @@ import React, { useState } from "react";
 
 import "../Styles/Recommendation.css";
 
-import Destination1 from "../assets/Destination1.png";
-import Destination2 from "../assets/Destination2.png";
-import Destination3 from "../assets/Destination3.png";
-import Destination4 from "../assets/Destination4.png";
-import Destination5 from "../assets/Destination5.png";
-import Destination6 from "../assets/Destination6.png";
+import Destination1 from "../assets/Destination1.jpg";
+import Destination2 from "../assets/Destination2.jpg";
+import Destination3 from "../assets/Destination3.jpg";
+import Destination4 from "../assets/Destination4.jpg";
+import Destination5 from "../assets/Destination5.jpg";
+import Destination6 from "../assets/Destination6.jpg";
 import info1 from "../assets/info1.png";
 import info2 from "../assets/info2.png";
 import info3 from "../assets/info3.png";
