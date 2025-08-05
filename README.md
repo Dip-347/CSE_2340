@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Install vite in the react app
 
 <br/>
@@ -28,3 +29,6 @@ $ npm install
 ```
 $ npm run dev
 ```
+=======
+# CSE_2340
+>>>>>>> 79577ef3938057ee56a7b80f38fd8cd1f14c6c09
