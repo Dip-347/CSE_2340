@@ -46,7 +46,7 @@
 
 .box {
   padding: 0.5rem;
-  background-color: rgba(224, 185, 250, 0.35);
+  background-color: #FFF8E1;
   border-radius: 8px;
   display: flex;
   flex-direction: column;
@@ -92,7 +92,7 @@
   padding: 0.2rem 0.3rem;
   margin-right: 0.2rem;
   border-radius: 50%;
-  background-color: rgb(143, 9, 245);
+  background-color: #283593;
   color: white;
 }
 
